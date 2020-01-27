@@ -5,7 +5,7 @@ class Student < User
 
 end
 
-def learn(String)
+def learn(string)
 
 end
 # @first_name = first_name
