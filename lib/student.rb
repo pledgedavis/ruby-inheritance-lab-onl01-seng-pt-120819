@@ -6,7 +6,7 @@ class Student < User
 end
 
 def learn(string)
-
+@knowledge.push(string)
 end
 # @first_name = first_name
 # @last_name = last_name
