@@ -12,6 +12,7 @@ end
 # @last_name = last_name
 #
 # end
-
+def knowledge
+end
 
 end
