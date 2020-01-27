@@ -4,7 +4,7 @@ class Teacher <  User
 
 def teach
 
-# array.sample()
+KNOWLEDGE.sample
 
 end
 end
